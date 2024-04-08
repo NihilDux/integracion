@@ -1,3 +1,10 @@
 {
-  "typescript.preferences.autoImportFileExcludePatterns": ["@ionic/angular/common", "@ionic/angular/standalone"]
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+	
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#411960",
+        "titleBar.activeBackground": "#5B2387",
+        "titleBar.activeForeground": "#FBF9FD"
+    
+	}
 }
